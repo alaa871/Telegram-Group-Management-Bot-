@@ -128,4 +128,3 @@ For a better user experience, modify commands to accept replies or resolve menti
 For issues or suggestions, please open an issue on the project repository.
 
 Happy moderating! 🎉
-```
